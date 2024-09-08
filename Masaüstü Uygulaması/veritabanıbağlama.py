@@ -1,6 +1,10 @@
 import mysql.connector
-bağlantı = mysql.connector.connect(
+try:
+    bağlantı = mysql.connector.connect(
     host = "localhost",
     user = "root",
     password = "1234"
-)
+    )
+    print("Veri Tabanına Bağlandı")
+except:
+      print("Veri Tabanına Bağlanılamadı")

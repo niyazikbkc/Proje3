@@ -8,10 +8,10 @@ from PyQt6.QtWidgets import (
 # Veritabanı bağlantısı
 def create_connection():
     connection = mysql.connector.connect(
-        host="localhost",  # MySQL sunucu adresi
-        user="root",       # MySQL kullanıcı adı
-        password="1234",  # MySQL şifreniz
-        database="PROJE3"  # Kullanılacak veritabanı
+        host="localhost",  
+        user="root",      
+        password="1234",  
+        database="PROJE3"  
     )
     return connection
 

@@ -16,6 +16,9 @@ Masaüstü giriş ekranı bu şekilde.Uygulamanın girişi için, Kullanıcı Ad
 <br>
 Masaüstü Rehber Uygulaması Ana Ekranı:
 <br>
+<br>
 Uygulamamın Ana Ekranı Aşağıdaki Şekildedir:
 <br>
 <img src="RehberUygulamasıAnaEkranMenüsü.png" alt="Örnek Resim"/>
+<br>
+Masaüstü uygulamasının ana ekranı bu şeklde.Uygulamanın bütün arayüzünü tek sayfada kullandım.Kişleri ekleme,silme,düzenleme ekranlarına kolayca erişebilirsiniz.

@@ -23,3 +23,8 @@ Uygulamamın Ana Ekranı Aşağıdaki Şekildedir:
 <img src="RehberUygulamasıAnaEkranMenüsü.png" alt="Örnek Resim"/>
 <br>
 Masaüstü uygulamasının ana ekranı bu şeklde.Uygulamanın bütün arayüzünü tek sayfada kullandım.Kişleri ekleme,silme,düzenleme ekranlarına kolayca erişebilirsiniz.
+<br>
+<br>
+Mysql Görünümü:
+<br>
+<img src="Mysql Rehber Resmi.png" alt="Örnek Resim"/>

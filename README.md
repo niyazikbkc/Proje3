@@ -10,4 +10,5 @@ Masaüstü Rehber Uygulaması Giriş Ekranı:
 Uygulamamın Giriş Ekranı Aşağıdaki Şekildedir:
 <br>
 <img src="MasaüstüRehberUgulamasıGirişEkranı.png" alt="Örnek Resim"/>
-<br>Masaüstü giriş ekranı bu şekilde.Uygulamanın girişi için, Kullanıcı Adı; "admin"  Şifre: "1234" yazarak uygulamaya giriş yapabilirsiniz.
+<br>
+Masaüstü giriş ekranı bu şekilde.Uygulamanın girişi için, Kullanıcı Adı; "admin"  Şifre: "1234" yazarak uygulamaya giriş yapabilirsiniz.

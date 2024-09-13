@@ -7,6 +7,7 @@ Masaüstü rehber uygulamam 5 farklı alt başlıktan oluşmaktadır.Kişi eklem
 <br>
 Masaüstü Rehber Uygulaması Giriş Ekranı:
 <br>
+<br>
 Uygulamamın Giriş Ekranı Aşağıdaki Şekildedir:
 <br>
 <img src="MasaüstüRehberUgulamasıGirişEkranı.png" alt="Örnek Resim"/>

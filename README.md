@@ -10,3 +10,4 @@ Masaüstü Rehber Uygulaması Giriş Ekranı:
 Uygulamamın Giriş Ekranı Aşağıdaki Şekildedir:
 <br>
 <img src="MasaüstüRehberUgulamasıGirişEkranı.png" alt="Örnek Resim"/>
+<br>
